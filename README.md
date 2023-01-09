@@ -1,2 +1,2 @@
 # generation-exercises 👨🏻‍🏫
-Repositório de exercícios realizados durante o curso da Generation.
+Repositório de exercícios de lógica de programação realizados durante o curso da Generation.
